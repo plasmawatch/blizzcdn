@@ -1,0 +1,503 @@
+{
+  "cover": {
+    "imageAsset": {
+      "width": 1920,
+      "height": 1080,
+      "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blte45eefce2ad60ebe/placeholder.png",
+      "description": "Jade"
+    },
+    "videoAsset": null
+  },
+  "gallery": [],
+  "title": "Jade",
+  "slug": "jade",
+  "countdownTimer": null,
+  "ageGate": null,
+  "metaData": {
+    "title": "Jade",
+    "siteTitle": "Battle.net",
+    "windowTitle": "Jade - Overwatch 2 | Battle.net",
+    "description": "",
+    "keywords": null,
+    "url": "https://us.shop.battle.net/en-us/family/overwatch/items/1612169/jade",
+    "images": [
+      "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blte45eefce2ad60ebe/placeholder.png"
+    ],
+    "age": "age=13",
+    "breadcrumbs": [
+      {
+        "name": "Battle.net",
+        "path": "https://us.shop.battle.net/en-us"
+      },
+      {
+        "name": "Overwatch 2",
+        "path": "https://us.shop.battle.net/en-us/family/overwatch"
+      },
+      {
+        "name": "Jade",
+        "path": "https://us.shop.battle.net/en-us/family/overwatch/items/1612169/jade"
+      }
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/battlenet",
+      "instagram": "https://www.instagram.com/battlenet",
+      "twitter": "https://twitter.com/battlenet"
+    },
+    "product": null,
+    "debugSessionId": null
+  },
+  "browsingPageSlug": "overwatch",
+  "browsingPageName": "Overwatch 2",
+  "heading": null,
+  "category": "",
+  "products": [
+    {
+      "id": 1612169,
+      "subscriptionId": null,
+      "subscriptionWrapperId": null,
+      "name": "Jade",
+      "quantificationLabel": "",
+      "productComparisonName": null,
+      "imageUrl": null,
+      "productComparisonImageUrl": null,
+      "virtualCurrencyGrantingIconUrl": null,
+      "priceInfo": {
+        "description": null,
+        "disclaimer": null,
+        "price": {
+          "currency": "XWE",
+          "fullAmount": "3,000 Competitive points",
+          "discountAmount": null,
+          "rawDiscountAmount": null,
+          "amountPerUnit": null,
+          "rawAmountPerUnit": null,
+          "lowestPriceLegalNoticeAmount": null,
+          "labelFormat": null,
+          "label": null,
+          "labelOrder": null,
+          "iconUrl": null,
+          "raw": 3000,
+          "discountPercentage": null,
+          "discountId": null,
+          "discountName": null,
+          "productClaimsToken": null,
+          "priceToken": null
+        },
+        "termDurationAmount": null,
+        "bulkPurchaseDetails": null
+      },
+      "bestValue": false,
+      "buttonSection": {
+        "title": null,
+        "ctaPlacement": "Product Page",
+        "buttons": [
+          {
+            "id": "browsing.product-page.button.buy",
+            "url": "//US.battle.net/shop/checkout/buy/1612169",
+            "productId": 1612169,
+            "subscriptionId": null,
+            "name": "Weapon (Emerald) - Angelica",
+            "franchiseIconName": null,
+            "appGameCode": null,
+            "price": null,
+            "balanceVariable": false,
+            "disabled": false,
+            "mobileOnly": false,
+            "customLabel": null,
+            "optIn": null,
+            "header": null,
+            "brand": null,
+            "ecommerceAnalytics": null
+          }
+        ],
+        "optInButton": null
+      },
+      "balanceVariableInfo": null,
+      "eligibility": null,
+      "idOnWishlist": null,
+      "typeOnWishlist": 1,
+      "cosmeticCategory": null,
+      "cosmeticHero": null,
+      "cosmeticRarity": null,
+      "orderId": 0,
+      "analytics": {
+        "name": "Weapon (Emerald) - Angelica",
+        "brand": "Overwatch®",
+        "category": "Game Add-on"
+      },
+      "shouldShowPriceReducedMessage": false,
+      "includedWithGamePass": false,
+      "available": false
+    }
+  ],
+  "iconImage": {
+    "width": null,
+    "height": null,
+    "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+    "description": "Overwatch 2"
+  },
+  "marketingText": null,
+  "customButtonSection": null,
+  "additionalPanelSection": null,
+  "titleId": 5272175,
+  "subtitleId": null,
+  "appGameCode": null,
+  "publishers": [
+    {
+      "image": {
+        "width": 512,
+        "height": 237,
+        "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt852017f954f970c7/6137ad49568fbb37922f9d3f/blizzard.svg",
+        "description": "blizzard"
+      }
+    }
+  ],
+  "developers": [
+    {
+      "image": {
+        "width": 512,
+        "height": 237,
+        "url": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt852017f954f970c7/6137ad49568fbb37922f9d3f/blizzard.svg",
+        "description": "blizzard"
+      }
+    }
+  ],
+  "details": {
+    "title": "Product Details",
+    "genre": {
+      "title": "Genre",
+      "name": "Team-Based Action Game"
+    },
+    "platforms": {
+      "title": "Platforms",
+      "platforms": [
+        {
+          "title": "Windows",
+          "id": 1,
+          "displayOrder": 1
+        },
+        {
+          "title": "Xbox Series X|S",
+          "id": 11,
+          "displayOrder": 3
+        },
+        {
+          "title": "Xbox One",
+          "id": 8,
+          "displayOrder": 4
+        },
+        {
+          "title": "PlayStation®5",
+          "id": 10,
+          "displayOrder": 6
+        },
+        {
+          "title": "PlayStation®4",
+          "id": 6,
+          "displayOrder": 7
+        },
+        {
+          "title": "Nintendo Switch™",
+          "id": 9,
+          "displayOrder": 9
+        }
+      ]
+    },
+    "languages": {
+      "title": "Available Languages",
+      "languages": [
+        "English (US)",
+        "Español (AL)",
+        "Português (BR)",
+        "English (EU)",
+        "Deutsch",
+        "Español (EU)",
+        "Français",
+        "Italiano",
+        "Polski",
+        "Русский",
+        "한국어",
+        "繁體中文",
+        "English (SEA)",
+        "日本語"
+      ]
+    },
+    "techSpecsLink": null,
+    "regions": {
+      "title": "Available Regions",
+      "regions": [
+        "Americas & Oceania",
+        "Europe",
+        "Korea",
+        "Taiwan"
+      ]
+    }
+  },
+  "legalInfoSection": {
+    "title": "Age Rating",
+    "legalInfo": {
+      "ratingDetailsList": [],
+      "disclaimersList": [],
+      "ratingsList": [
+        {
+          "imageUrl": "https://images.blz-contentstack.com/v3/assets/blt3d2b37a4c9c0ce28/blteda65bf57e501050/5cf6e294cf7aa6330ac66a99/t.424Bl.png",
+          "referenceUrl": "https://www.esrb.org/ratings-guide/",
+          "customImageUrl": null,
+          "contentGroups": [
+            {
+              "position": 1,
+              "groupId": "f62c693a-7519-4ffc-aa73-6cb7f27bd87c",
+              "contents": [
+                {
+                  "position": 4,
+                  "name": "Blood",
+                  "description": "Depictions of blood.",
+                  "locale": "en-US",
+                  "imageUrl": null,
+                  "contentId": "cdc96d72-bfc9-4b76-b970-ab1b0da3203b"
+                },
+                {
+                  "position": 18,
+                  "name": "Mild Language",
+                  "description": null,
+                  "locale": "en-US",
+                  "imageUrl": null,
+                  "contentId": "691682f0-b9bc-425c-80ad-85393e5a9a86"
+                },
+                {
+                  "position": 30,
+                  "name": "Use of Tobacco",
+                  "description": "The consumption of tobacco products.",
+                  "locale": "en-US",
+                  "imageUrl": null,
+                  "contentId": "4c4ae530-c10f-4aa0-beb9-3459fcd987c6"
+                },
+                {
+                  "position": 48,
+                  "name": "Violence",
+                  "description": "Scenes involving aggressive conflict. May contain bloodless dismemberment.",
+                  "locale": "en-US",
+                  "imageUrl": null,
+                  "contentId": "bf58099d-f820-4ba7-a37b-5c42713ab7fd"
+                }
+              ]
+            },
+            {
+              "position": 2,
+              "groupId": "8c00bec6-430c-4f93-9115-b9c7497856af",
+              "contents": [
+                {
+                  "position": 3,
+                  "name": "Users Interact",
+                  "description": "Indicates possible exposure to unfiltered/uncensored user-generated content, including user-to-user communications and media sharing via social media and networks.",
+                  "locale": "en-US",
+                  "imageUrl": null,
+                  "contentId": "07170f29-f89b-4d4c-affc-8eab27bc98f0"
+                },
+                {
+                  "position": 5,
+                  "name": "In-Game Purchases (Includes Random Items)",
+                  "description": "Contains in-game offers to purchase digital goods or premiums with real world currency, including but not limited to bonus levels, skins, surprise items (such as item packs, loot boxes, mystery awards), music, virtual coins and other forms of in-game currency, subscriptions, season passes and upgrades (e.g., to disable ads)",
+                  "locale": "en-US",
+                  "imageUrl": "",
+                  "contentId": "c0c7f9d9-2857-43d9-b0b8-c5dc2d8b2608"
+                }
+              ]
+            }
+          ],
+          "contentGated": false,
+          "requiredAge": 13,
+          "localizedName": "T (Teen)"
+        }
+      ]
+    }
+  },
+  "titleSystemRequirements": [
+    {
+      "platformId": 1,
+      "platformName": "Windows",
+      "systemRequirements": [
+        {
+          "requirementId": 1,
+          "systemRequirementElements": [
+            {
+              "key": "hardware",
+              "value": null
+            },
+            {
+              "key": "operatingSystem",
+              "value": "Windows® 10 64-bit (latest Service Pack)"
+            },
+            {
+              "key": "processor",
+              "value": "Intel® Core™ i3 or AMD Phenom™ X3 8650"
+            },
+            {
+              "key": "video",
+              "value": "NVIDIA® GeForce® GTX 600 series, AMD Radeon™ HD 7000 series"
+            },
+            {
+              "key": "memory",
+              "value": "6 GB RAM"
+            },
+            {
+              "key": "storage",
+              "value": "50 GB available hard drive space"
+            },
+            {
+              "key": "internet",
+              "value": "Broadband internet connection"
+            },
+            {
+              "key": "input",
+              "value": null
+            },
+            {
+              "key": "resolution",
+              "value": "1024 x 768 minimum display resolution"
+            }
+          ]
+        },
+        {
+          "requirementId": 2,
+          "systemRequirementElements": [
+            {
+              "key": "hardware",
+              "value": null
+            },
+            {
+              "key": "operatingSystem",
+              "value": "Windows® 10 64-bit (latest Service Pack)"
+            },
+            {
+              "key": "processor",
+              "value": "Intel® Core™ i7 or AMD Ryzen™ 5"
+            },
+            {
+              "key": "video",
+              "value": "NVIDIA® GeForce® GTX 1060/ GeForce® GTX 1650 or AMD R9 380/AMD RX 6400 or Intel® Arc™ A770"
+            },
+            {
+              "key": "memory",
+              "value": "8 GB RAM"
+            },
+            {
+              "key": "storage",
+              "value": "50 GB available hard drive space"
+            },
+            {
+              "key": "internet",
+              "value": "Broadband internet connection"
+            },
+            {
+              "key": "input",
+              "value": null
+            },
+            {
+              "key": "resolution",
+              "value": "1024 x 768 minimum display resolution"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "virtualCurrencies": [
+    {
+      "name": "Overwatch Coins",
+      "amount": 0,
+      "amountLocalized": "0 Coins",
+      "nameLocalized": "Overwatch Coins",
+      "purchaseUrl": "/product/overwatch-coins",
+      "iconAmountFormat": "{0} 0",
+      "iconUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blta0dcc11657537871/OW2_VirtualCurrency.svg",
+      "learnMoreCtaDetails": "",
+      "learnMoreCtaUrl": "https://battle.net/support/article/000314267"
+    },
+    {
+      "name": "Event Tickets",
+      "amount": 0,
+      "amountLocalized": "0 Event Currency",
+      "nameLocalized": "Event Currency",
+      "purchaseUrl": null,
+      "iconAmountFormat": null,
+      "iconUrl": null,
+      "learnMoreCtaDetails": "",
+      "learnMoreCtaUrl": null
+    },
+    {
+      "name": "Competitive Points",
+      "amount": 0,
+      "amountLocalized": "0 Competitive points",
+      "nameLocalized": "Competitive points",
+      "purchaseUrl": null,
+      "iconAmountFormat": null,
+      "iconUrl": null,
+      "learnMoreCtaDetails": "",
+      "learnMoreCtaUrl": null
+    },
+    {
+      "name": "Legacy Competitive Points",
+      "amount": 0,
+      "amountLocalized": "0 Legacy competitive points",
+      "nameLocalized": "Legacy competitive points",
+      "purchaseUrl": null,
+      "iconAmountFormat": null,
+      "iconUrl": null,
+      "learnMoreCtaDetails": "",
+      "learnMoreCtaUrl": null
+    },
+    {
+      "name": "Mythic Prisms",
+      "amount": 0,
+      "amountLocalized": "0 Mythic Prisms",
+      "nameLocalized": "Mythic Prisms",
+      "purchaseUrl": null,
+      "iconAmountFormat": null,
+      "iconUrl": null,
+      "learnMoreCtaDetails": "",
+      "learnMoreCtaUrl": null
+    }
+  ],
+  "showRatingBoardInProductHeader": false,
+  "faqs": null,
+  "requirements": {
+    "title": "Product Requirements",
+    "collapsible": false,
+    "requirements": [
+      {
+        "text": "Use of Hero cosmetics requires owning that Hero in-game.",
+        "tooltip": "",
+        "url": "",
+        "visibility": "Tier 1"
+      }
+    ],
+    "tier1Requirements": [],
+    "tier2Requirements": []
+  },
+  "comparisonTable": null,
+  "featureSections": [],
+  "showCrossPlaySupport": true,
+  "gamePassEnabled": false,
+  "showGamePassBadge": false,
+  "showGamePassTabs": false,
+  "gamePassBadgeTooltip": null,
+  "gamePassJoinUrl": null,
+  "gamePassBnetConnectUrl": null,
+  "productPageMobileApp": null,
+  "ecommerceAnalytics": {
+    "products": {
+      "1612169": {
+        "name": "Weapon (Emerald) - Angelica",
+        "brand": "Overwatch®",
+        "category": "Game Add-on"
+      }
+    },
+    "brand": "Overwatch®",
+    "category": "Game Add-on"
+  },
+  "productClaimsToken": null,
+  "mtxItemShopConfigCmsId": "blt777a55f41d6c8d34",
+  "authorized": false,
+  "authorizationStatus": "UNAUTHORIZED_LOGIN_REQUIRED"
+}
